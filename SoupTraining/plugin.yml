@@ -1,0 +1,12 @@
+main: at.markus.soupTraining.main.Main
+name: SoupTrainer
+
+version: early beta
+author: Markus (aka Markuslol_xD)
+api-version: 1.16
+
+commands:
+   soup:
+     description: Laest das Soup Menue oeffnen!
+     usage: /soup
+     
